@@ -1,8 +1,28 @@
 
-Deliverables Roadmap
-===================
-Phase CANOPY: Two Months
-------------------------
+HPE Optimus Prime
+=================
+Objective
+--------
+* DataLake that hosts databases related to marketing department to support insighful platform for analytics
+* Pull data from multiple sources and create a central hub
+* Combine Actual, Flash, Budgeting, External datasets for reporting
+* Fast, seamless, real-time stream of data to feed automated reporting
+
+DESIGN
+------
+
+Layout:
+
+![Layout](https://github.com/alanKhosro/SoftwareDesign/blob/master/OptimusLayout.jpg?raw=True)
+
+
+
+
+
+
+Deliverables Roadmap (General Draft Version)
+------------------
+### Phase CANOPY: Two Months
 0.  Define Plan (1 Director and Support Team)
     * Write Charter--1 page/Bullets
 	* Roadmap Milestones  
@@ -18,8 +38,7 @@ Phase CANOPY: Two Months
 	* Draw sweamlines
 	* Define Platform 
 
-Phase NEST: Two Months
-----------------------
+### Phase NEST: Two Months
 2.  Design Interface (3-7 Designers)	
 	* Code App Classes -- Class Interface
 	* Define DFD, ERD, DDLs, Database Schema
@@ -42,8 +61,7 @@ Phase NEST: Two Months
 	* Validate
 	* Ship
 
-Phase HIVE: Two Months
-----------------------
+### Phase HIVE: Two Months
 6.  Deliver Product (Toolsmith Team) -- One Month
 	* Assemble
 	* Run
@@ -58,9 +76,9 @@ Phase HIVE: Two Months
 	* DevOps
 
 Organization
-============
+-----------
 There are three types of teams:
-## CANOPY Team
+### CANOPY Team
 This is the high level team with following roles:
 * Director: Superviser
 * Architect: Lead Role
@@ -71,7 +89,7 @@ This is the high level team with following roles:
 
 This is like a commender canopy that decides and communicates about the major parts of the system including plan, schedule, budget, scope, features, architecture, ...
 
-## NEST Teams
+### NEST Teams
 Each Designer is in charge of one NEST which develops one components of the system. Components must be modular and separable to reduce the complexity. Each NEST has the following roles:
 * Designer: Lead Role
 * Modeler
@@ -79,7 +97,7 @@ Each Designer is in charge of one NEST which develops one components of the syst
 * Testers
 Each NEST might have many developers and testers and/or one person might play a few roles if the team is small.
 
-## HIVE Teams
+### HIVE Teams
 Which functionaly partitions into Platforam Engineers and Deployers and they might have variety of roles from DB Admin, DevOp, IT, Trainer, Marketer, ...
 
 Platform Engineers take the developed modules from NESTs and put it into production. Nowadays, it is done by assemble them up and running on PaaS or SaaS platform.
@@ -93,17 +111,17 @@ The first Release will be longer (6 months) before going out.
 
 Work Breakdown
 --------------
-## Architecture: CANOPY
+### Architecture: CANOPY
 Integrity of software comes from single Architect mindset that communicates it to the CANOPY team and they decide on management aspect. The team, then, decides what feature to include (scope) management, how to modular the component and assign to designers (breakdown), how to manage and suppost the NEST teams.
 
-## Development: NEST
+### Development: NEST
 The NEST team will work under designer lead with tight teamwork. The designer will write the APIs, class interfaces, datatypes, ... then the modelere will write the how-to in markdown format that shows formulas, how-to, math, algo, psydocode, ... to implement the design interfaces. This will be the conceptual design part.
 
 The experienced and super productive developers will just write the overal code (in interpretive, prototype, dynamic-typed language such as Python). This is the logical design. 
 
 The tester will add exceptions, optimize the code, test it, validate it and pluf it into the appropraite packages and ship it to production.
 
-## Delivery: HIVE
+### Delivery: HIVE
 The final components by NESTs will be assembled together according to architecture layout and will be on production in PaaS/SaaS platform by Engineering/Toolsmith team.
 
 The final deployment and marketing and training and manual writing and delivery will be done by Deployment team. 
@@ -111,14 +129,14 @@ The final deployment and marketing and training and manual writing and delivery 
 Footnote
 --------
 Most of software development efforts fail. A report shows (developing software for government) deliver the exect software as promised under 5%, 78% never delivered, and 17% delivered but abondened and never used. Software development deviates from traditional Project Management. The traditional management is based on collective knowledge mainly from construction, army, and industrial production. Software (And Data Product) Development, which becomes increasingly more critical part of economy, is different for a reasons: 
-- It is not tangible 
-- Computers produce it:
+* It is not tangible 
+* Computers produce it:
 	they must understand what end user wants through the development team communication
-- The marginal cost is (theoritically) zero
+* The marginal cost is (theoritically) zero: 
 	Copy code from one system to another.
-- The possibility to make is (theoritically) unlimitted:
+* The possibility to make is (theoritically) unlimitted:
 	You just need to code
-- Intolerance to error and mistake
+* Intolerance to error and mistake: 
 	Even a colon can bring the whole system down. Indeed, on top of mistake, many new vocabs like error, exception, bugs are there.
 
 There are three movements in software development that influenced this documents.
