@@ -1,17 +1,21 @@
 
-#################### Phase CANOPY: Two Months ###################
-0.	Define Plan (1 Director and Support Team)
-	0.1	Write Charter--1 page/Bullets
-		What (project), Who (team), when (time), how (communication), where (client), why (business use), how much (budget)
-	0.2	Roadmap Milestones -- 1 page/List 
+Deliverables Roadmap
+===================
+Phase CANOPY: Two Months
+------------------------
+0.  Define Plan (1 Director and Support Team)
+
+    * Write Charter--1 page/Bullets
+      * What (project), Who (team), when (time), how (communication), where (client), why (business use), how much (budget)
+	* Roadmap Milestones -- 1 page/List 
 		No focus on tasks but focus on deliverables (and their formats and measures)
-	0.3	Schedule Deliverables -- 1 page/GANT chart
+	* Schedule Deliverables -- 1 page/GANT chart
 		Gant chart with dependencies and deadline and CPM
-	0.4 Build Team
+	* Build Team
 		Responsibilities (single person per deliverable) and roles
-	0.5 Setup Logistics
+	* Setup Logistics
 		Workshop, infrastructure, room, network, technology, access, permissions, repositories 
-	0.6 Provide Budget
+	* Provide Budget
 		Estimate, value added, costs, revenues
 
 1.  Draw Blueprint (1 Architect)
