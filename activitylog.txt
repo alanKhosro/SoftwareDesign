@@ -1,0 +1,50 @@
+
+
+WBS: A5PKC002
+
+Pulse secure
+    userid: w25004513
+    pass: 198719+
+    token: 046519
+
+SQL SERVER
+    Server : hc4w00651.itcs.hpecorp.net,2048
+    SQL Authentication account(Batch id) :- OP_FPA_POWERBI_BATCH_ID 
+    pwd :-Open@pbi
+
+Server details  Optimus Prime
+    Cloud Database : EG_PERFORMANCE_FP_AND_A
+
+
+
+[‎8/‎11/‎2017 1:23 PM]  Irvine, Michael:  
+pulse secure
+ 
+[‎8/‎11/‎2017 1:23 PM]  Fried, Omri:  
+ 1) go to connections and add connection (you can call it whatever you want, mine is HPE Oath). 
+ 2) For the URL use global.remoteaccess.hp.com and add the connection. 
+ 3) The user name is the employee number that starts with "w". 
+ 4) for the password, put in Nic's 6 digit code followed by 6 digit code on the key  
+ 
+
+Questions from Suresh
+- 
+
+Planet, ESSBase, Excel Table, Push to DB (optimus Prime)
+BW, SAP (csv), 
+Polaris, Special DB, Access
+
+cwet team for master
+Fan William
+
+Views take long time
+
+NO Data Validation
+
+AAron for EDW
+
+create financial data lake from scratch
+
+
+
+

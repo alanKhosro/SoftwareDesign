@@ -1,0 +1,233 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxySqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.TableProxySqlServerv2k5" name="tbl_hierarchy_MRU" directorySegmentName="seg_0" id="D0EBFA43-DA09-7002-54AE-F07FAF187CF3">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<schemaObject>39A30398-040F-D8EF-734F-B8C3A93ABB49</schemaObject>
+<database>DFD8BB94-3765-1851-0686-AE308CD7D37E</database>
+<filegroup>78D0BDD8-15E3-BBC7-E787-B87BE92BE77D</filegroup>
+<schema>5AFEDE0E-8BDA-FFD3-DBFA-5CCB2D5A3558</schema>
+<textImageFG>78D0BDD8-15E3-BBC7-E787-B87BE92BE77D</textImageFG>
+<columnProxies>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L11" id="004945CD-952F-7144-9A30-8E61CA3D226F">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="ManagerEmail" id="04041670-F187-C118-9C4D-3015767CD61E">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="Depth" id="076DEC58-23FB-93D7-BC31-A0A0E201CE98">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU L1" id="0787C642-B43C-304D-2338-D62CF67F20ED">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L3" id="0C340352-AA92-FE44-77F3-7AE541FACE9C">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L10 Desc" id="0F0639D6-5167-C7FF-2B24-17E739D9D43A">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU L3" id="215E7F50-6312-F125-0BFF-0B1DB353C2C0">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="Dimension" id="2A236456-946D-13F0-0B65-69B9B043A840">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU Code" id="30D8CFFD-9546-C4AC-F99B-5CECDB487745">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="ParentLineage" id="391749D1-7F34-CDE6-A483-F516072B5708">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU L2" id="3F29EB17-9DE2-F27E-3814-4CABA346B4B6">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L0" id="51C3623B-17DD-CFB7-A4C1-30B0FA7A3E9E">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L6 Desc" id="5405B816-ECB8-A883-ABAB-4C2A2163DED8">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L5" id="62737A90-1EDC-86D6-5A19-A40D3659A3C0">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L12" id="62C5B973-BB6D-A8BE-2626-7DAEB58661A9">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MemberCode" id="6FAC00E4-33BE-A771-DAD0-51940A2D4DC4">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L5 Desc" id="711822EF-7D11-5BB0-597D-C7AA3CF4E198">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L0 Desc" id="73F65DEE-3D28-3FF7-06B9-0E91C72A8197">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L9 Desc" id="7B73E068-FE0A-67EB-4DA4-5361AE239CD5">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L1 Desc" id="7BA2B41B-BDF0-82DD-04CE-3F21ADA43BDA">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU L4" id="7CFBE817-3AEC-4D5F-B639-9265AC5F6AF9">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L11 Desc" id="8B6DDB92-5A7D-9FF3-EBD9-C8E23331558B">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L8" id="8D900571-695B-7888-1552-428076328861">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L8 Desc" id="8EB5BA0C-E5C9-4E61-7B38-3B8BF63485AC">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MemberID" id="9BD02930-6353-EC2E-842C-5794CB5F3964">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="AllocationBlock" id="9CF6DF26-3276-4D95-4468-DEAF43A66BFB">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L9" id="9F8563D5-9461-C8D0-8E9F-05A9CCB83456">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L4" id="A3380123-E329-D369-9E09-DA6EFFACA385">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="LowestNode" id="A7CE5F2A-7790-716F-6C5C-414FCED93B7F">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L3 Desc" id="AA943052-6345-17BF-9A70-8B26ABA38851">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="LongDescription" id="B02FCB14-5A10-40CD-4517-755CDAD3DA87">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L6" id="BA1BDB48-2AD0-BBEB-DDBB-B51847FE6AAE">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MemberClass" id="BD737F09-EDD4-1C62-C03A-3014CADF20AC">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="ShortDescription" id="C05EF7BC-B598-C82D-9C7C-767B5CF3DF77">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L12 Desc" id="C32185D3-62C6-7C69-7F70-F5F42753F19C">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L7 Desc" id="CDF94BCF-7151-1418-3F61-5B2CDE4A481A">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L7" id="D1101D5B-70A7-3C1B-4A24-47BD789492FD">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="MRU L5" id="EAA96FAD-4626-F8B5-3724-3B49B71E1F85">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L2 Desc" id="F22313FF-AD7A-46E8-B6B0-3A8AB18CF63D">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L2" id="F4D97F2A-1E8A-2582-B041-71E71D750485">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L1" id="F55A5847-4A5A-860B-BC05-4EF8D855E61E">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L4 Desc" id="FBE4B836-58B3-BE37-7F6F-3E0AC33B718C">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="L10" id="FD497BA8-1629-6698-52B9-DAC093113623">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.ColumnProxySqlServerv2k12" name="ManagerName" id="FD8C8FA7-8EA8-FCF8-853F-450838200F88">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+</TableProxySqlServerv2k5>

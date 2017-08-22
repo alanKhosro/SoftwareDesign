@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SchemaSqlServerv2k5 class="oracle.dbtools.crest.model.design.storage.sqlserver.v2k5.SchemaSqlServerv2k5" name="dbo" directorySegmentName="seg_0" id="5AFEDE0E-8BDA-FFD3-DBFA-5CCB2D5A3558">
+<sourceDDLFile>10.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 22:56:57 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<database>DFD8BB94-3765-1851-0686-AE308CD7D37E</database>
+</SchemaSqlServerv2k5>

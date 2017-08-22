@@ -1,0 +1,442 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="98A060E7-FCB5-E61B-05B8-8AA3B23E4F8A" schemaObject="39A30398-040F-D8EF-734F-B8C3A93ABB49" name="tbl_hierarchy_PCTR">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>2608AC2A-DD98-B27B-5978-6AA648F705A2</importedID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="MemberCode" id="A3F93478-A407-AB03-6FF4-3B3626638BF3">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>94684430-BA92-D197-5155-4ABE3A6341B3</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CBF25C52-8154-B94A-1964-1DF5D260C60D</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LongDescription" id="DB9650A6-6E3A-7735-90BA-578260730083">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>076FC9C6-5699-987D-AF42-8836D42D91EF</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ShortDescription" id="7503B28A-0D6A-9D5A-D317-08012901B901">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>CD857C6C-669A-6170-9252-D8B32ED9B494</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>37A34132-7EB2-20A1-9284-D19D0C7088A5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MemberID" id="02E3BB6D-32C6-F808-EB0D-9D832513971A">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>E0F5B4B7-7FF1-BE87-3B1D-6807174F8E32</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<domain>825652A7-8CCC-8168-B496-9DB487541D6B</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Dimension" id="885F5F16-F43E-E334-3628-FDE8F4B39DE6">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>11EE1894-C9A4-92A0-19D7-2097164A85A2</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>37A34132-7EB2-20A1-9284-D19D0C7088A5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ParentLineage" id="9DC8F5B5-DD39-532D-107E-479383022D46">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>FD967DEE-B10E-608E-BF2B-5756FE32F090</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT036</logicalDatatype>
+<domain>A40F036E-AC7F-8371-7EBB-0068B1A29337</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MemberClass" id="1757E19A-3028-F700-6E43-8127009DF061">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>C733BA99-8992-9BA7-ED8E-15EF36B26DCA</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>37A34132-7EB2-20A1-9284-D19D0C7088A5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L0" id="6424C0D4-89B4-1945-F0D9-9A1101410201">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>ACB9585E-9B7A-EE19-09CD-401FF983C486</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L0 Desc" id="0289AFA4-D063-CEA4-BF9F-68E0AFF50A84">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>0235F474-6B8F-80EF-C0C7-059D6168A5D1</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L1" id="E99FE240-7915-3BF8-190F-9E96EBF34B8C">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>1B09BABA-A1AD-2C4D-9656-2DE929C8FF2A</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L1 Desc" id="E9D13BA1-043D-2638-AB69-5E51CD3B5959">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>6D6E8303-F89B-7BE4-EC4D-870A592B2ECF</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L2" id="905EADF1-0109-7C55-E61E-C08199EAFCF9">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>F58C8D96-098B-82C5-8D98-4ECF819D905C</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L2 Desc" id="7AE5A7FA-6CBE-795B-8002-16CD98E8ABE8">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>404F8FC0-1D7B-A5C1-2872-6CE180320FC6</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L3" id="61AD58E2-DD37-449B-C0B2-ECFDDFC33DA5">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>C80CECB3-B896-69D9-FF79-6F5655C0AE08</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L3 Desc" id="0F472022-F2FC-501C-6952-566AADEB7126">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>4048C08D-84BD-CC15-7EDD-47EF05AC7F46</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L4" id="B8D72903-4849-6536-2BB2-ADCEF3BDBDB2">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>498E53EC-22B4-2272-4722-D257AEDCDB3B</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L4 Desc" id="3290945C-5EBE-1DEB-F29D-0876F94070C4">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>7BBAEBDC-38A9-9557-BA57-A528BC8E4C9F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L5" id="3DE34A1C-353B-F310-1AD8-60B7494EAC17">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>1DD88908-A5ED-8BD3-E344-9CBC1E2C9F8E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L5 Desc" id="90991136-BD58-E199-F221-53B7A43911F1">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>C7BD94BC-09A4-EE85-4FF3-098F3CAD77E8</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L6" id="0087F402-C33E-A1C3-EB0C-E521A1B675AA">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>8F379D2F-68DA-3548-F1E0-91772455755A</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L6 Desc" id="F51DE2BB-4B70-ACC6-160A-75D5D8C36588">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>CA7311B6-921B-B142-D818-F8CD953B6658</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L7" id="DDE7F418-395E-9C8C-70F6-502198584BE5">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>0AA15961-8C74-CA25-486A-FC0D5001BD83</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L7 Desc" id="82E61E12-DCD7-8577-CC09-2B834A70C50E">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>B33DFF24-F17E-B170-8185-B1D79866106E</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L8" id="9D79C483-6A26-CCE1-FC9C-0643F4D75112">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>159A9462-F01D-24FD-D1E7-F40C188FA3DE</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L8 Desc" id="FFE972B5-DE9F-4826-C564-C9F1973ECD27">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>E4B0A904-BFC9-C853-DB66-A733085A7D5F</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L9" id="571400C8-5E5D-CAF4-331D-039A38BC03D8">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>146650CD-9040-1518-D050-D872E07CC1B7</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L9 Desc" id="D6D5BB51-C19C-31F5-6B79-AE0DBE2978D4">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>A0302392-0DCC-EA83-B2C3-A989C5D3EDA6</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L10" id="C683AFC3-A346-C099-8895-D6DE571CB987">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>6011868C-6C08-4C70-8572-BBE62BDFEAA4</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L10 Desc" id="CCA81079-32A1-8CAE-7FA3-5D515EFEB1BA">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>F08FE8FE-B63C-1E98-7626-DE5E83A1245D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L11" id="83D3F022-BA97-DC96-8741-48A0BF376172">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>A19D5B2C-AE5E-973C-3AEB-3CBA3F5C56A2</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L11 Desc" id="6E5770D6-A655-B190-C635-57429A82E358">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>36B5C97A-32C7-878F-A0E3-3130B595DC7D</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L12" id="F7B3D4C1-C9A0-C3FD-F2C2-077F9387D1CE">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>DFCF479B-6B27-16AE-FEC7-82066062BD31</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>23442F1E-357C-F546-74F9-A26B9358A7B5</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="L12 Desc" id="D0011659-6A17-B838-3A1D-1545EEA7D2D6">
+<sourceDDLFile>9.sql</sourceDDLFile>
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:59 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>56D50B13-18E3-56BE-9455-EC03C9550594</importedID>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<domain>CAB5C4AB-B2F9-1A89-CB65-B79843578363</domain>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

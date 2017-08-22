@@ -1,0 +1,80 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="F94B06BB-B6A8-1A8B-0AFE-97CD0D575575" mainViewID="9A0CF595-4620-A185-7E91-973D5899B23D">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 22:55:46 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>980FCE9E-D688-BDF0-C89A-C9FB2DCAED45</selectedRDBMSSite>
+<importDDLFileStamps>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>1.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>10.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>11.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>12.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>13.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>14.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>2.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>3.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>4.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>5.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>6.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>7.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>8.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+<importDDLFileStamp class="oracle.dbtools.crest.imports.DDLFileStamp">
+<fileName>9.sql</fileName>
+<pathName>C:\Users\ali.khosro\Desktop\temp\ddl</pathName>
+<dbType>13</dbType>
+</importDDLFileStamp>
+</importDDLFileStamps>
+</relationalModel>

@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SchemaObject class="oracle.dbtools.crest.model.design.relational.SchemaObject" name="RPT_BW" directorySegmentName="seg_0" id="D92AC673-B37F-947E-BE70-66DB1763C087">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:58 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>A3277D66-FD8A-9F84-BEF6-B6858AAB0D8C</importedID>
+</SchemaObject>

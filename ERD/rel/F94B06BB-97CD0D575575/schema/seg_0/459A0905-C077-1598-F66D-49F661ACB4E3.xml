@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<SchemaObject class="oracle.dbtools.crest.model.design.relational.SchemaObject" name="BWFIN" directorySegmentName="seg_0" id="459A0905-C077-1598-F66D-49F661ACB4E3">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 23:00:58 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<importedID>3517C6D7-296A-F0F0-4429-B05E0C822676</importedID>
+</SchemaObject>

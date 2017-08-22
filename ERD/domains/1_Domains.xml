@@ -1,0 +1,232 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="1_Domains">
+   <domains>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_50" id="008F4616-DBC2-1F4F-81B8-D8A599771AF5">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>50</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_255" id="23442F1E-357C-F546-74F9-A26B9358A7B5">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>255</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_50" id="25C622B6-4EE5-5FC9-4544-987F94278792">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>50</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_100" id="2C496060-63EF-8729-7AB1-F7B523BF7DCD">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>100</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_20" id="37A34132-7EB2-20A1-9284-D19D0C7088A5">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>20</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_6" id="54FE4E05-7E2C-F290-2195-E2E03F333766">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>6</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="Integer_0_0_0" id="825652A7-8CCC-8168-B496-9DB487541D6B">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT011</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_8" id="9552424E-1B67-3C9F-41D5-BC6A2175DAC1">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>8</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_84" id="98784090-71AB-7646-539A-9202D7237A93">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>84</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NTEXT_0_0_0" id="A40F036E-AC7F-8371-7EBB-0068B1A29337">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT036</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_9" id="A9911696-33D7-0064-811A-817DC3F1AA63">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>9</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_2" id="B2045399-79F2-ED64-DC6D-32DE3DBB4160">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>2</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_3" id="B632B86B-D573-905F-3B51-9AB8AA138B5E">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>3</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="Datetime_0_0_0" id="C250934E-0F4E-5906-2BD7-6C09D291AD94">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT008</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="FLOAT_0_0_0" id="C28BCAD5-0958-A650-1170-60A1B22A133A">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT021</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="TINYINT_0_0_0" id="C59E42E3-D33C-8A16-1028-FD19A64AAD5B">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT042</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_40" id="CAB5C4AB-B2F9-1A89-CB65-B79843578363">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>40</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_30" id="CBF25C52-8154-B94A-1964-1DF5D260C60D">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>30</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_5" id="CD3DF374-0C5A-DE87-7B1F-5B462438A1F5">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>5</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_4" id="D97BB420-9C05-09A9-D683-D3CECDE5AD1A">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>4</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVARCHAR_0_0_2" id="E6020CFB-CA32-7987-E41F-0EE1BDBB59C3">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>2</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT037</logicalDatatype>
+      </Domain>
+      <Domain class="oracle.dbtools.crest.model.design.Domain" name="VARCHAR_0_0_7" id="E6A7B676-2BC8-05E5-9F04-F1411394731D">
+         <createdBy>ali.khosro</createdBy>
+         <createdTime>2017-08-17 23:00:59 UTC</createdTime>
+         <ownerDesignName>ERD</ownerDesignName>
+         <avTSortOrder>0</avTSortOrder>
+         <dataTypePrecision>0</dataTypePrecision>
+         <dataTypeScale>0</dataTypeScale>
+         <dataTypeSize>7</dataTypeSize>
+         <fileName>1_Domains</fileName>
+         <logicalDatatype>LOGDT024</logicalDatatype>
+      </Domain>
+   </domains>
+</DomainFile>

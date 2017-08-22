@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.StorageDesignSqlServerv2k12>
+   <object objectID="DB_NULLELEMENT" markedGenerate="false"/>
+   <object objectID="DB_NULLELEMENT_dbo" markedGenerate="false"/>
+   <object objectID="DFD8BB94-3765-1851-0686-AE308CD7D37E_dbo" markedGenerate="false"/>
+   <object objectID="GUEST" markedGenerate="false"/>
+   <object objectID="DB_NULLELEMENT_PUBLIC" markedGenerate="false"/>
+   <object objectID="DFD8BB94-3765-1851-0686-AE308CD7D37E_PUBLIC" markedGenerate="false"/>
+</oracle.dbtools.crest.model.design.storage.sqlserver.v2k12.StorageDesignSqlServerv2k12>

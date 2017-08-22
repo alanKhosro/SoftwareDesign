@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ERD" id="CA4A4E12-87BA-BA91-79A8-A07CBFC09044" version="3.5">
+<createdBy>ali.khosro</createdBy>
+<createdTime>2017-08-17 22:55:46 UTC</createdTime>
+<ownerDesignName>ERD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CA4A4E12-87BA-BA91-79A8-A07CBFC09044</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="5446E454-3882-B5FD-A6CC-3CAA2D116C3A">
+<designStoragePath>C:\1</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
